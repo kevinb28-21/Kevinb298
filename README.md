@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Software Engineering Student @ Toronto Metropolitan University<br>🖥️ Data Systems Engineering Intern @ Ontario Ministry of Transportation <br>🛠️ I create solutions technology solutions to innovate the future<br>🪖 I'm an Infantry Soldier with the Queen's Own Rifles of Canada<br>🤝 I look forward to collaborating on AI, IaaS, VR and AR projects
+👨‍💻 Software Engineering Student @ Toronto Metropolitan University<br>🖥️ Data Systems Engineering Intern @ Ontario Ministry of Transportation <br>🛠️ I create technology solutions to innovate the future<br>🪖 I'm an Infantry Soldier with the Queen's Own Rifles of Canada<br>🤝 I look forward to collaborating on AI, IaaS, VR, and AR projects
 
 
 ## 🌐 Socials:
